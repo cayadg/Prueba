@@ -1,9 +1,0 @@
-Prólogo.
-Tabla de Contenido
-Capítulo 1: Nociones básicas de programación.
-Capítulo 2: Fundamentos de matemáticas.
-Capítulo 3: Programación orientada a objetos.
-Capítulo 4: Ingeniería de software - Arquitectura de software.
-Capítulo 5: Computación en la nube.
-Capítulo 6: Machine learning y modelos predictivos.
-Capítulo 7: Machine learning en la nube.
